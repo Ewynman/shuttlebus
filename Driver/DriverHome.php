@@ -15,7 +15,6 @@ if (!isLoggedIn()) {
         <!-- CSS Styles -->
         <link rel="stylesheet" href="./CSS/homeStyle.css">
 
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuHy-8zWn8DSaq6g7UuOmcWLUaVv9SreE&callback=initMap" async defer></script>
         <script src="./initMap.js"></script>
         <script src="./getCurrentCoordinates.js"></script>
         <link rel="stylesheet" href="./CSS/style.css">

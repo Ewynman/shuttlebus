@@ -14,8 +14,7 @@
     <title>User | Home</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
-    <!--DO NOT TOUCH-->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuHy-8zWn8DSaq6g7UuOmcWLUaVv9SreE&callback=initMap" async defer></script>
+  
     <script src="./initMap.js"></script>
     <link rel="stylesheet" href="./style.css">
     
