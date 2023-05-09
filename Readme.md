@@ -5,6 +5,7 @@
 
 
 <h3 align="center">ShuttleBus</h3>
+<img alt="Github issues" src="https://img.shields.io/github/issues/Ewynman/shuttlebus?color=56BEB8" /> 
 <div align="center">
 
 
