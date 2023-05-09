@@ -7,6 +7,7 @@
 <h3 align="center">ShuttleBus</h3>
 <img alt="Github issues" src="https://img.shields.io/github/issues/Ewynman/shuttlebus?color=56BEB8" /> 
 <img alt="Github top language" src="https://img.shields.io/github/languages/top/Ewynman/shuttlebus?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Ewynman/shuttlebus?color=56BEB8">
 <div align="center">
 
 
