@@ -16,13 +16,6 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Brances](#deployment)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-
 ## 🧐 About <a name = "about"></a>
 
 Shuttlebus is an all in one shuttle mangemnet software to track where shuttles are around campus. Allows users to track the live location of shuttles using the Google Map JS API
