@@ -10,5 +10,5 @@ jobs:
       uses: JasonEtco/status-check-action@v2.5.0
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        status: "My Status"
+        status: "Passing"
         message: "Everything is working"
