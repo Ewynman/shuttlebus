@@ -3,8 +3,9 @@
  <img width=200px height=200px src="./shuttlebusIcon.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">ShuttleBus</h3>
 
+<h3 align="center">ShuttleBus</h3>
+[![Status](https://github.com/USERNAME/REPO/actions/workflows/status.yml/badge.svg)](https://github.com/Ewynman/shuttlebus/actions/workflows/status.yml)
 <div align="center">
 
 
