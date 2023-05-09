@@ -5,7 +5,6 @@
 
 
 <h3 align="center">ShuttleBus</h3>
-(https://github.com/Ewynman/shuttlebus/actions/workflows/main.yml)
 <div align="center">
 
 
