@@ -5,7 +5,7 @@
 
 
 <h3 align="center">ShuttleBus</h3>
-[![Status](https://github.com/USERNAME/REPO/actions/workflows/status.yml/badge.svg)](https://github.com/Ewynman/shuttlebus/actions/workflows/status.yml)
+(https://github.com/Ewynman/shuttlebus/actions/workflows/main.yml)
 <div align="center">
 
 
